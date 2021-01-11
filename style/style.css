@@ -42,3 +42,12 @@ body{
 }
 
 /* Meio e 2/4 do documento*/
+
+.o-rock{
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    background-color: black;
+}
