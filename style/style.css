@@ -5,3 +5,15 @@
     font-family: 'Big Shoulders Stencil Text', cursive;
    /*font-family: 'Big Shoulders Stencil Text', cursive;*/
 }
+
+.logo{
+    height: 70px;
+    width:20%;
+    align-content: center;
+    margin-left: 40%;
+}   
+
+.cab{
+    background-color: black;
+    max-height: 70px;
+}
