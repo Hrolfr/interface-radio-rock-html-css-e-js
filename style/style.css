@@ -34,20 +34,37 @@
 }
 
 body{
-    background-color: rgb(156, 151, 151);
+    background-color: rgb(12, 1, 1);
 }
 
 .agora{
-    color: white;
+    color: rgb(117, 11, 11, 0.966);
+    margin-top: 1%;
+    margin-bottom: 0%;
+    text-align: center;
+    font-size: 18px;
+
+   
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0, 0, 0,.50)100%), url(https://is1-ssl.mzstatic.com/image/thumb/Purple/c6/52/c9/mzl.pkhxelcv.png/480x360bb.png);
+    height: 300px;
+
 }
 
 /* Meio e 2/4 do documento*/
 
 .o-rock{
-    background-color: black;
-    color: white;
+    background-color: rgb(0, 0, 0);
+    color: rgb(117, 11, 11, 0.966);
+    font-size: 22px;
+
+    
 }
 
 .footer{
     background-color: black;
+}
+
+.rock-sempre{
+    display: inline-block;
+    
 }
