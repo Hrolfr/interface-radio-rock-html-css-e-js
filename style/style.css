@@ -56,8 +56,8 @@ body{
     background-color: rgb(0, 0, 0);
     color: rgb(117, 11, 11, 0.966);
     font-size: 22px;
-
-    
+ 
+   
 }
 
 .footer{
@@ -65,6 +65,24 @@ body{
 }
 
 .rock-sempre{
-    display: inline-block;
-    
+    float: left;
+}
+
+.letra{
+    background-color: rgba(16, 42, 90, 0.678);
+}
+
+.bio{
+    background-color: rgba(16, 42, 90, 0.678);   
+}
+
+.promo{
+    background-color: rgba(16, 42, 90, 0.678);
+}
+
+.botao{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2%;
+    padding-top: 2%;
 }
