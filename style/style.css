@@ -53,10 +53,11 @@ body{
 /* Meio e 2/4 do documento*/
 
 .o-rock{
-    background-color: rgb(0, 0, 0);
-    color: rgb(117, 11, 11, 0.966);
+    background: linear-gradient(rgba(252, 81, 2, 0.589),rgb(211, 196, 128), rgb(238, 35, 8),rgb(12, 1, 1)100%);
+    color: rgba(26, 7, 1, 0.966);
     font-size: 22px;
- 
+  
+    
    
 }
 
@@ -90,16 +91,19 @@ body{
     height: 50px;
     width: 150px;
     margin-left: 20px;
+   
 }
 
 .botao{
     display: flex;
     padding-bottom: 2%;
     padding-top: 2%;
+   
 }
 
 .text{
     display: inline-block;
+    background: linear-gradient(rgba(252, 81, 2, 0.589),rgb(211, 196, 128), rgb(238, 35, 8),rgb(12, 1, 1)100%);
 } 
 
 .o-rock, .juntos,li {
