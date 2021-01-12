@@ -69,20 +69,40 @@ body{
 }
 
 .letra{
-    background-color: rgba(16, 42, 90, 0.678);
+    background-color:transparent;
+    color: rgb(117, 11, 11, 0.966);
+    height: 50px;
+    width: 150px;
+    margin-left: 20px;
 }
 
 .bio{
-    background-color: rgba(16, 42, 90, 0.678);   
+    background-color:transparent;
+    color: rgb(117, 11, 11, 0.966);
+    height: 50px;
+    width: 150px;
+    margin-left: 20px;
 }
 
 .promo{
-    background-color: rgba(16, 42, 90, 0.678);
+    background-color:transparent;
+    color: rgb(117, 11, 11, 0.966);
+    height: 50px;
+    width: 150px;
+    margin-left: 20px;
 }
 
 .botao{
     display: flex;
-    flex-direction: column;
     padding-bottom: 2%;
     padding-top: 2%;
+}
+
+.text{
+    display: inline-block;
+} 
+
+.o-rock, li{
+    display: inline-block;
+    text-align: center;
 }
