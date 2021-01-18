@@ -91,6 +91,8 @@ body{
     height: 50px;
     width: 150px;
     margin-left: 20px;
+    background: linear-gradient(rgba(252, 81, 2, 0.589),rgb(211, 196, 128), rgb(238, 35, 8),rgb(12, 1, 1)100%);
+    
    
 }
 
@@ -103,7 +105,8 @@ body{
 
 .text{
     display: inline-block;
-    background: linear-gradient(rgba(252, 81, 2, 0.589),rgb(211, 196, 128), rgb(238, 35, 8),rgb(12, 1, 1)100%);
+    background: linear-gradient(rgba(252, 81, 2, 0.795),rgb(211, 196, 128), rgb(238, 35, 8),rgb(12, 1, 1)100%);
+    width: 100%;
 } 
 
 .o-rock, .juntos,li {
