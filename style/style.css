@@ -65,16 +65,13 @@ body{
     background-color: black;
 }
 
-.rock-sempre{
-    float: left;
-}
-
 .letra{
     background-color:transparent;
     color: rgb(117, 11, 11, 0.966);
     height: 50px;
     width: 150px;
     margin-left: 20px;
+    background: url(https://st4.depositphotos.com/5440574/29072/i/600/depositphotos_290724604-stock-photo-fire-frame-sparks-isolated-black.jpg);
 }
 
 .bio{
@@ -83,6 +80,7 @@ body{
     height: 50px;
     width: 150px;
     margin-left: 20px;
+    background: url(https://st4.depositphotos.com/5440574/29072/i/600/depositphotos_290724604-stock-photo-fire-frame-sparks-isolated-black.jpg);
 }
 
 .promo{
@@ -91,13 +89,13 @@ body{
     height: 50px;
     width: 150px;
     margin-left: 20px;
-    background: linear-gradient(rgba(252, 81, 2, 0.589),rgb(211, 196, 128), rgb(238, 35, 8),rgb(12, 1, 1)100%);
-    
+    background: url(https://st4.depositphotos.com/5440574/29072/i/600/depositphotos_290724604-stock-photo-fire-frame-sparks-isolated-black.jpg);
    
 }
 
 .botao{
-    display: flex;
+    display: inline-flexbox;
+    flex-direction:column-reverse;
     padding-bottom: 2%;
     padding-top: 2%;
    
