@@ -60,9 +60,7 @@ body{
     margin-top: 5px;
 }
 
-.footer{
-    background-color: black;
-}
+
 
 .letra{
     background-color:transparent;
@@ -128,4 +126,10 @@ body{
    border: 2px dotted rgb(158, 39, 10);
    margin-right: 75%;
    margin-top: -180px;
+}
+
+
+.footer{
+    background-color: black;
+    margin-top: 50px;
 }
