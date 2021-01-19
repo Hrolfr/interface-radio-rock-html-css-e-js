@@ -65,31 +65,32 @@ body{
 .letra{
     background-color:transparent;
     color: rgba(233, 22, 7, 0.966);
-    height: 50px;
+    height: 60px;
     width: 400px;
-    margin-left: 10%;
+    margin-left: 3%;
     background: url(https://st4.depositphotos.com/5440574/29072/i/600/depositphotos_290724604-stock-photo-fire-frame-sparks-isolated-black.jpg);
-    
     margin-top: 5px;
+    margin-bottom: 8px;
 }
 
 .bio{
     background-color:transparent;
     color: rgba(233, 22, 7, 0.966);
-    height: 50px;
+    height: 60px;
     width: 400px;
-    margin-left: 10%;
+    margin-left: 3%;
     background: url(https://st4.depositphotos.com/5440574/29072/i/600/depositphotos_290724604-stock-photo-fire-frame-sparks-isolated-black.jpg);
-    
+    margin-bottom: 8px;
 }
 
 .promo{
     background-color:transparent;
     color: rgba(233, 22, 7, 0.966);
-    height: 50px;
+    height: 60px;
     width: 400px;
-    margin-left:10%;
+    margin-left:3%;
     background: url(https://st4.depositphotos.com/5440574/29072/i/600/depositphotos_290724604-stock-photo-fire-frame-sparks-isolated-black.jpg);
+    margin-bottom: 8px;
 }
 
 .botao{
