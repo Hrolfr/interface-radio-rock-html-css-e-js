@@ -64,7 +64,7 @@ body{
 
 .letra{
     background-color:transparent;
-    color: rgb(117, 11, 11, 0.966);
+    color: rgba(233, 22, 7, 0.966);
     height: 50px;
     width: 23%;
     margin-left: 5px;
@@ -73,7 +73,7 @@ body{
 
 .bio{
     background-color:transparent;
-    color: rgb(117, 11, 11, 0.966);
+    color: rgba(233, 22, 7, 0.966);
     height: 50px;
     width: 49%;
     margin-left: 20px;
@@ -82,7 +82,7 @@ body{
 
 .promo{
     background-color:transparent;
-    color: rgb(117, 11, 11, 0.966);
+    color: rgba(233, 22, 7, 0.966);
     height: 50px;
     width: 23%;
     margin-left: 23px;
