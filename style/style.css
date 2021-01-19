@@ -90,16 +90,15 @@ body{
     width: 400px;
     margin-left:10%;
     background: url(https://st4.depositphotos.com/5440574/29072/i/600/depositphotos_290724604-stock-photo-fire-frame-sparks-isolated-black.jpg);
-    
 }
 
 .botao{
-    display:inline-table;
+    display:inline-flexbox;
+    flex-direction: column-reverse;
     padding-bottom: 2%;
     padding-top: 2%;
     margin-bottom: 5px; 
     margin-top: -25px;
-    align-items: center;
 }
 
 .text{
@@ -109,7 +108,7 @@ body{
     text-align: center;
     margin-right: 30%;
     border: orangered 2px dotted;
-    margin-top: 10px;
+    margin-top: -200px;
 } 
 
 .o-rock, .juntos,li {
@@ -129,7 +128,9 @@ body{
 }
 
 
-.footer{
+.footer {
     background-color: black;
     margin-top: 50px;
+    max-height: 100px;
+    
 }
