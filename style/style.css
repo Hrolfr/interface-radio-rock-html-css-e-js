@@ -33,7 +33,7 @@
 }
 
 body{
-    background-color: rgb(12, 1, 1);
+    background-color: rgba(180, 161, 161, 0.966);
 }
 
 .agora{
@@ -57,6 +57,7 @@ body{
     font-size: 22px;
     background: url(https://1.bp.blogspot.com/-hPTt-K4vL1s/VhswvXNtugI/AAAAAAAAAXo/TluQCvDJyjA/s1600/tumblr_static_background.jpg);
     max-height: 80px;
+    margin-top: 5px;
 }
 
 .footer{
