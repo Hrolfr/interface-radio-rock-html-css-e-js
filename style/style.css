@@ -128,7 +128,9 @@ body{
     text-align: center;
     margin-right: 30%;
     border: rgb(26, 22, 22) 2px dotted;
-    margin-top: -260px;
+    margin-top: -250px;
+    height: 210px;
+    color: rgba(204, 199, 199, 0.966);
 } 
 
 .o-rock, .juntos,li {
