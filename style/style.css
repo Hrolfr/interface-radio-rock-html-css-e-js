@@ -139,12 +139,10 @@ body{
     text-align: center;
 }
 
-/* <i class="fas fa-grip-lines-vertical"></i> */
-
 .u2{
    width: 20%;
    height: 200px;
-   border: 2px dotted rgb(158, 39, 10);
+   border: 2px dotted rgb(153, 149, 148);
    margin-right: 75%;
    margin-top: -180px;
 }
