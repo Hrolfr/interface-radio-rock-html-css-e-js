@@ -39,15 +39,14 @@ body{
 .agora{
     color: rgb(117, 11, 11, 0.966);
     margin-top: 40px;
-    margin-bottom: 0%;
     text-align: start;
     margin-left: 25%;
     font-size: 18px;
    padding-top: 90px;
 
    
-    /*background:  url(https://t3.ftcdn.net/jpg/03/52/90/60/360_F_352906059_QyZ0YmgamNmcuQftzpInRl3r6IZUDqVU.jpg);*/
-    height: 310px;
+    /*background:  url(https://t3.ftcdn.net/jpg/03/52/90/60/360_F_352906059_QyZ0YmgamNmcuQftzpInRl3r6IZUDqVU.jpg);
+    height: 310px;*/
 
 }
 
@@ -59,7 +58,7 @@ body{
     font-size: 22px;
     background: url(https://1.bp.blogspot.com/-hPTt-K4vL1s/VhswvXNtugI/AAAAAAAAAXo/TluQCvDJyjA/s1600/tumblr_static_background.jpg);
     max-height: 80px;
-    margin-top: -90px;
+    margin-top: 0px;
 }
 
 
