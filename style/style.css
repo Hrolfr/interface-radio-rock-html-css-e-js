@@ -42,13 +42,15 @@ body{
     text-align: start;
     margin-left: 25%;
     font-size: 18px;
-   padding-top: 90px;
+    padding-top: 90px;
 }
 .cred{
    background: url(https://s0.2mdn.net/5472125/09022020-132812428-2020-08-TH-StartHere-Land-728x90_Credentials.png);
    width: 500px;
    height: 90px;
    margin-left: 50%;
+   margin-top: -90px;
+   margin-bottom: 100px;
     /*background:  url(https://t3.ftcdn.net/jpg/03/52/90/60/360_F_352906059_QyZ0YmgamNmcuQftzpInRl3r6IZUDqVU.jpg);
     height: 310px;*/
 }
@@ -62,7 +64,7 @@ body{
     font-size: 22px;
     background: url(https://1.bp.blogspot.com/-hPTt-K4vL1s/VhswvXNtugI/AAAAAAAAAXo/TluQCvDJyjA/s1600/tumblr_static_background.jpg);
     max-height: 80px;
-    margin-top: 0px;
+    margin-top: -100px;
 }
 
 
