@@ -111,11 +111,11 @@ body{
 
 .text{
     float: right;
-    background: linear-gradient(rgb(92, 5, 9),rgb(39, 6, 6), rgba(236, 120, 12, 0.616),rgb(107, 16, 16)100%);
+    background: linear-gradient(rgb(77, 56, 57),rgb(105, 87, 87), rgba(245, 242, 239, 0.616),rgb(0, 0, 0)100%);
     width: 25%;
     text-align: center;
     margin-right: 30%;
-    border: orangered 2px dotted;
+    border: rgb(26, 22, 22) 2px dotted;
     margin-top: -260px;
 } 
 
