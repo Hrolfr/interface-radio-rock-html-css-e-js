@@ -80,6 +80,7 @@ body{
    
     font-weight: bolder;
     font-size: 22px;
+    border: dotted 1px burlywood;
 }
 
 .bio{
@@ -92,6 +93,7 @@ body{
 
     font-weight: bolder;
     font-size: 22px;
+    border: dotted 1px burlywood;
 }
 
 .promo{
@@ -104,6 +106,7 @@ body{
 
     font-weight: bolder;
     font-size: 22px;
+    border: dotted 1px burlywood;
 }
 
 .botao{
