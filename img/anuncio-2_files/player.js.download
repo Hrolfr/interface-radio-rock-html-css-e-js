@@ -1,0 +1,142 @@
+function limit(l) {
+  var x = []; x.length = l;
+  (function (){}).apply(null, x);
+}
+
+
+
+var stream;
+
+$(document).ready(function() {
+ 
+	
+
+		    stream = {
+		        title: "Rádio Alpha FM - Estilo em sintonia com você.",
+		        mp3: "http://ice.fabricahost.com.br/89aradiorocksp?compat=1"//"http://cdn.live.nextdial.com.br/listen/alphafmsp"//"https://slave.shoutcast.com/AlphaFM101-7", //,
+		    }, ready = false; 
+		   console.log(stream);
+
+
+setTimeout(function() { 
+	
+	  if($.cookie("volume") != null){
+		 	$volume = $.cookie("volume") ;
+	  }else{
+			 $volume = 0.50;
+	  }
+	    
+	
+    $("#jplayer_N").jPlayer({
+        playlistOptions: {
+            autoPlay: false,
+            enableRemoveControls: true
+        },
+       
+        ready: function(event) {
+            ready = true;
+            $(this).jPlayer("setMedia", stream).jPlayer("play");
+       
+        },
+        pause: function() {
+            $(this).jPlayer("clearMedia");
+        },
+        error: function(event) {
+            if (ready && event.jPlayer.error.type === $.jPlayer.error.URL_NOT_SET) {
+                // Setup the media stream again and play it.
+                $(this).jPlayer("setMedia", stream).jPlayer("pause");
+            }
+        },
+        volume:$volume,
+        swfPath: "javascript/jPlayer",
+        supplied: "m4a, mp3",
+        preload: "false",
+        wmode: "window",
+        useStateClassSkin: true,
+        autoBlur: false,
+        keyEnabled: true
+    });    
+}, 1000)
+
+});
+$(document).ready(function() {
+	$("a.jp-pause").click(function() {
+	    $("a.jp-play").show();
+	    $("a.jp-pause").hide();
+	    $("#jplayer_N").jPlayer("pause");
+	});
+	
+	$("a.jp-play").click(function() {
+	    $("a.jp-pause").show();
+	    $("a.jp-play").hide();
+	    $("#jplayer_N").jPlayer("play");
+	});
+	 $("a.jp-play").hide();
+	 
+	
+	
+});
+
+function mudaVolume(){
+	//console.log($('.slider').val());
+}
+
+$(document).load(function() {
+   $("#jplayer_N").jPlayer();
+    
+    if($.cookie("volume") != null){
+	 	$volume = $.cookie("volume") ;
+	 	console.log($volume);
+		//$("#jplayer_N").jPlayer("volume", $volume);
+		 $("#jplayer_N").jPlayer({ volume: '0.1'});
+		 console.log($volume);
+	 }else{
+		 $volume = 0.50;
+		 //$("#jplayer_N").jPlayer("volume", $volume);
+		 $("#jplayer_N").jPlayer({ volume: $volume});
+		 console.log($volume);
+	 }
+    
+    $("a.jp-pause").hide();
+    
+   
+});
+
+function playAndPause($x){
+	if($x == 'play'){
+		$("a.pause").show();
+	    $("a.play").hide();
+	    $("#jplayer_N").jPlayer("play");
+	}else if($x == 'pause'){
+		$("a.play").show();
+	    $("a.pause").hide();
+	    $("#jplayer_N").jPlayer("pause");
+	}
+}
+
+function setVolume($x){
+	if($x == 'volume_true'){
+		$("a.volume_false").show();
+	    $("a.volume_true").hide();
+	    $("#jplayer_N").jPlayer("play");
+	}else if($x == 'volume_false'){
+		$("a.volume_true").show();
+	    $("a.volume_false").hide();
+	    $("#jplayer_N").jPlayer("pause");
+	}
+}
+
+/*
+window.setInterval(function() {
+	var isPaused = $('#jplayer_N').data("jPlayer").status.paused;
+	if(isPaused == true){
+		$("a.jp-play").show();
+	    $("a.jp-pause").hide();
+	}else{
+		$("a.jp-pause").show();
+	    $("a.jp-play").hide();
+	}
+	
+}, 1500);
+*/
+

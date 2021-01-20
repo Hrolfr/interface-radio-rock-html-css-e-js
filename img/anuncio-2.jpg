@@ -1,0 +1,699 @@
+
+<!-- saved from url=(0036)https://www.radiorock.com.br/player/ -->
+<html class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>89FM A Rádio Rock - 89.1 | São Paulo - SP</title>
+<link rel="alternate" hreflang="pt-br" href="https://www.radiorock.com.br/player/">
+<meta name="viewport" content="width=900px, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="referrer" content="origin">
+<link rel="canonical" href="https://www.radiorock.com.br/player">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Player 89FM A Rádio Rock">
+<meta name="description" content="Aqui você ouve nossa programação a qualquer hora em qualquer lugar">
+<link rel="stylesheet" href="./anuncio-2_files/jquery.fancybox.css">
+<link rel="stylesheet" type="text/css" href="./anuncio-2_files/normalize.css">
+<link rel="stylesheet" type="text/css" href="./anuncio-2_files/animate.css">
+<link rel="stylesheet" type="text/css" href="./anuncio-2_files/outbox.css">
+<link rel="stylesheet" href="./anuncio-2_files/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="./anuncio-2_files/main.css">
+<link rel="stylesheet" type="text/css" href="./anuncio-2_files/jquery.mCustomScrollbar.min.css">
+<link rel="stylesheet" type="text/css" href="./anuncio-2_files/nouislider.min.css">
+<link href="./anuncio-2_files/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<script src="./anuncio-2_files/osd.js.download"></script><script type="text/javascript" src="./anuncio-2_files/req" async=""></script><script type="text/javascript" async="">try{nvg39967.url=window.location.href;window.onhashchange=function(){try{nvg39967.url=window.location.href;nvg39967.saveRequest(nvg39967.userId||nvg39967.usr);}catch(a){}};}catch(e){}</script><script type="text/javascript" async="" src="./anuncio-2_files/analytics.js.download"></script><script id="navegg" type="text/javascript" src="./anuncio-2_files/tm39967.js.download"></script><script src="./anuncio-2_files/jquery-1.7.2.min.js.download" type="text/javascript"></script>
+<script src="./anuncio-2_files/jquery-ui.min.js.download" type="text/javascript"></script>
+<script type="text/javascript" src="./anuncio-2_files/jquery.maskedinput.js.download"></script>
+<script type="text/javascript" src="./anuncio-2_files/jquery.cookie.js.download"></script>
+<script type="text/javascript" src="./anuncio-2_files/jquery.jplayer.js.download"></script>
+<script type="text/javascript" src="./anuncio-2_files/jquery.fancybox.pack.js.download"></script>
+<script type="text/javascript" src="./anuncio-2_files/jquery.mCustomScrollbar.concat.min.js.download"></script>
+<script async="async" src="./anuncio-2_files/gpt.js.download" type="text/javascript"></script>
+<script type="text/javascript" src="./anuncio-2_files/jquery.validate.js.download"></script>
+<script type="text/javascript" src="./anuncio-2_files/jquery.maskedinput.js.download"></script>
+<script type="text/javascript" src="./anuncio-2_files/start.js.download"></script>
+<script type="text/javascript" src="./anuncio-2_files/nouislider.min.js.download"></script>
+<script type="text/javascript" src="./anuncio-2_files/player.js.download"></script>
+<style type="text/css">
+		    body,td,th {
+				font-family: Lato, sans-serif;
+			}
+	    </style>
+
+<script async="" src="./anuncio-2_files/js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'UA-36884183-1');
+
+</script>
+<script type="text/javascript">
+var nvgId = 39967;
+var nvgAsync = false;
+(function() {
+var nvg = document.createElement('script');
+nvg.id="navegg";
+nvg.type = 'text/javascript';
+nvg.async = nvgAsync;
+nvg.src='https://tag.navdmp.com/tm'+nvgId+'.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(nvg, s);
+})();
+</script>
+<script async="async" src="./anuncio-2_files/gpt.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script type="text/javascript">
+
+
+
+    window.smartlook||(function(d) {
+
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+
+    c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+
+    })(document);
+
+    smartlook('init', 'e38ddca393c3781435da316ea6cb8e9ce4a3aba6');
+
+
+
+</script>
+<style type="text/css">
+					div#topo > div.menu {
+    /* display: inline-block; */
+    width: 100%;
+    background-color: #000;
+        height: 50px;
+    line-height: 30px;
+    padding: 10px 0;
+    position: fixed;
+    /* margin-top: 35px; */
+}
+
+
+div.botoes {
+    display: inline-block;
+    float: right;
+    height: 70px;
+    width: 40%;
+    text-align: right;
+}
+
+div.botoes > a {
+	margin-top: 0;
+}
+
+
+#letra, #bio {
+    display: none;
+    width: 100%;
+    text-align: center;
+}
+
+#letra > div.minimo, #bio > div.minimo, #bio > div.minimo, #bio > div.minimo {	
+    text-align: left;
+    max-width: 900px;
+    font-size: 14px;
+        width: 100%;
+
+}
+
+#letra > div.minimo div.dois-tercos, #bio > div.minimo div.dois-tercos  {
+    display: inline-block;
+    width: 100%;
+    float: left;
+    vertical-align: top;
+}
+
+div#topo > div.minimo {
+    max-width: 1270px;
+    height: 150px;
+    position: relative;
+}
+
+div#conteudo > div.minimo > div.coluna_direita {
+    width: 336px;
+    margin-left: 0px;
+    height: 400px;
+    float: right;
+    margin-top: -114px;
+}
+
+div#conteudo> div.minimo {margin-top: 10px;}
+
+div#conteudo > div.minimo > div.coluna_central, div#conteudo > div.minimo > div.coluna_direita {
+
+ height: inherit;
+
+}
+
+.menu .stores{
+	float: right;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.menu .stores img{height: 45px; margin-left: 5px;}
+
+
+
+				</style>
+<meta http-equiv="origin-trial" content="A2shzsdPO+RKe83bUqT9oVkYwGZN6j9O7nrcOASNFPuQz8HefgVYb9qAqn6coNCSDIRtXoi6ybCrjEsYh3caFgIAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MTM0OTU4NjgsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="./anuncio-2_files/pubads_impl_2021011203.js.download" async=""></script><script async="" type="text/javascript" charset="utf-8" src="./anuncio-2_files/recorder.js.download"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style><link rel="preload" href="./anuncio-2_files/f(5).txt" as="script"><script type="text/javascript" src="./anuncio-2_files/f(5).txt"></script><link rel="preload" href="./anuncio-2_files/f(6).txt" as="script"><script type="text/javascript" src="./anuncio-2_files/f(6).txt"></script><link rel="prefetch" href="https://0962cb9272f625a0dcfc52c3b2e151e1.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html"><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"></head>
+<body>
+<div id="bio">
+<div class="minimo">
+<div class="dois-tercos" style="width: 500px; min-height: 200px;">
+<p style="text-align: center;text-align: justify;width: 400px;margin: auto;margin-top: 24px;margin-bottom: 24px;"> <a href="https://www.last.fm/music/89FM+A+R%C3%81DIO+ROCK"></a></p>
+</div>
+</div>
+</div>
+<div id="letra">
+<div class="minimo">
+<div class="dois-tercos" style="width: 500px; min-height: 200px;">
+<p style="text-align: center;">Letra não disponível</p>
+</div>
+</div>
+</div>
+<div class="logar" id="login">
+<div class="auxiliar">
+<form method="post" class="login active" action="https://www.radiorock.com.br/cadastro/login" novalidate="novalidate">
+<h2>LOGIN ALPHA</h2>
+<input type="text" placeholder="Login" autocomplete="off" class="required" name="login">
+<input type="password" autocomplete="off" placeholder="Senha" class="required password" name="senha">
+<input type="submit" value="ENTRAR">
+<a href="https://www.radiorock.com.br/cadastro?ref=http://www.radiorock.com.br/player/" class="cadastre">CADASTRE-SE</a>
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; chamaSenha()" class="cadastre">ESQUECEU A SENHA ?</a>
+</form>
+<form method="post" style="display: none;" class="senha" action="https://www.radiorock.com.br/cadastro/instrucaosenha" novalidate="novalidate">
+<h2>RECUPERAR SENHA</h2>
+<input type="text" name="email" class="required" value="" autocomplete="off" placeholder="E-mail de cadastro">
+<br>
+<input type="submit" class="cadastre" value="ENVIAR">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; chamaSenha()" class="cadastre">CANCELAR</a>
+</form>
+</div>
+</div>
+<div class="logar">
+<div class="auxiliar">
+<form method="post" class="login active" action="https://www.radiorock.com.br/cadastro/login" novalidate="novalidate">
+<h2>LOGIN ALPHA</h2>
+<input type="text" autocomplete="off" placeholder="Login" class="required" name="login">
+<input type="password" autocomplete="off" placeholder="Senha" class="required password" name="senha">
+<input type="submit" value="ENTRAR">
+<a href="https://www.radiorock.com.br/cadastro?ref=http://www.radiorock.com.br/player/" class="cadastre">CADASTRE-SE</a>
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; chamaSenha()" class="cadastre">ESQUECEU A SENHA ?</a>
+</form>
+<form method="post" style="display: none;" class="senha" action="https://www.radiorock.com.br/cadastro/instrucaosenha" novalidate="novalidate">
+<h2>RECUPERAR SENHA</h2>
+<input type="text" name="email" class="required" value="" autocomplete="off" placeholder="E-mail de cadastro">
+<br>
+<input type="submit" class="cadastre" value="ENVIAR">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; chamaSenha()" class="cadastre">CANCELAR</a>
+</form>
+</div>
+</div> <div id="cadastro">
+<div class="minimo">
+<div class="dois-tercos">
+<form method="post" action="https://www.radiorock.com.br/cadastro/index" novalidate="novalidate">
+<h2 class="titulo">DADOS DE CADASTRO</h2>
+<input type="hidden" name="ref" value="">
+<label>
+<input type="text" name="nome" value="" class="required" placeholder="Nome">
+</label>
+<label>
+<input type="text" name="email" class="required" value="" placeholder="E-mail">
+</label>
+<label class="metade left">
+<input type="text" name="rg" class="required" value="" placeholder="RG">
+</label>
+<label class="metade right">
+<input type="text" name="data_nascimento" class="calendar required hasDatepicker" value="" placeholder="Data de Nascimento" id="dp1611149718446">
+</label>
+<label class="metade left">
+<input type="text" name="telefone" value="" class="phone required" placeholder="Telefone ou Celular">
+</label>
+<label class="metade right">
+<input type="text" name="telefone_2" value="" class="phone" placeholder="Celular">
+</label>
+<label class="metade left">
+<input type="text" name="cep" class="cep required" value="" placeholder="CEP">
+</label>
+<label class="metade right">
+<select name="sexo">
+<option value="">Sexo</option>
+<option value="masculino">Masculino</option>
+<option value="feminino">Feminino</option>
+</select>
+</label>
+<label class="metade left">
+<select name="estado">
+<option value="">Selecione o Estado</option>
+<option value="ac">Acre</option>
+<option value="al">Alagoas</option>
+<option value="am">Amazonas</option>
+<option value="ap">Amapá</option>
+<option value="ba">Bahia</option>
+<option value="ce">Ceará</option>
+<option value="df">Distrito Federal</option>
+<option value="es">Espírito Santo</option>
+<option value="go">Goiás</option>
+<option value="ma">Maranhão</option>
+<option value="mt">Mato Grosso</option>
+<option value="ms">Mato Grosso do Sul</option>
+<option value="mg">Minas Gerais</option>
+<option value="pa">Pará</option>
+<option value="pb">Paraíba</option>
+<option value="pr">Paraná</option>
+<option value="pe">Pernambuco</option>
+<option value="pi">Piauí</option>
+<option value="rj">Rio de Janeiro</option>
+<option value="rn">Rio Grande do Norte</option>
+<option value="ro">Rondônia</option>
+<option value="rs">Rio Grande do Sul</option>
+<option value="rr">Roraima</option>
+<option value="sc">Santa Catarina</option>
+<option value="se">Sergipe</option>
+<option value="sp">São Paulo</option>
+<option value="to">Tocantins</option>
+</select>
+</label>
+<label class="metade right">
+<input type="text" class="required" value="" name="cidade" placeholder="Cidade">
+</label>
+<h3> Dados de Login</h3>
+<label>
+<input type="text" name="login" value="" placeholder="Login">
+</label>
+<label>
+<input type="password" name="senha" class="required" placeholder="Senha">
+</label>
+<label>
+<input type="password" name="repete-senha" class="required" placeholder="Repetir Senha">
+</label>
+<label>
+<input type="checkbox" name="newsletter" checked="checked" value="sim">
+Desejo receber novidades e informações sobre o conteúdo deste site.
+</label>
+<label>
+<input type="submit" value="CADASTRAR AGORA">
+</label>
+</form>
+</div>
+</div>
+</div>
+
+<div id="jplayer_N" style="width: 0px; height: 0px;"><img id="jp_poster_0" style="width: 0px; height: 0px; display: none;"><audio id="jp_audio_0" preload="false" src="http://ice.fabricahost.com.br/89aradiorocksp?compat=1" title="Rádio Alpha FM - Estilo em sintonia com você."></audio></div>
+<header>
+<div id="topo" style="background-image: url(&quot;undefined&quot;);">
+<div class="menu">
+<div class="minimo" style="max-width: 1270px; position: relative;">
+<div style="width: 302px;margin: 0 auto;">
+<a href="https://www.radiorock.com.br/contato">
+<img style="height: 90%;" src="./anuncio-2_files/89_branco.png">
+</a>
+</div>
+<div class="stores">
+<a href="https://play.google.com/store/apps/details?id=com.mobileappsgallery.radiorock">
+<img src="./anuncio-2_files/play-store.png">
+</a>
+<a href="https://itunes.apple.com/br/app/89-a-radio-rock/id581551635?mt=8">
+<img src="./anuncio-2_files/apple-store.png">
+</a>
+</div>
+</div>
+</div>
+<div class="minimo" style="
+    z-index: 0;
+    margin-top: 70px;
+">
+<div class="info-bottom">
+<div class="agora">
+<h3>Você está ouvindo agora na</h3>
+<br>
+<h2>89 <b>A Rádio Rock </b></h2>
+</div>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1086868/2018_home_728x90', [728, 90], 'div-gpt-ad-1542140493357-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<div class="prop" id="div-gpt-ad-1542140493357-0" style="height: 90px; width: 728px; margin-top: -30px; float: right; vertical-align: top;" data-google-query-id="COXSwLTQqu4CFRMHuQYdjF4GDA">
+
+<div id="google_ads_iframe_/1086868/2018_home_728x90_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="./anuncio-2_files/container.html" id="google_ads_iframe_/1086868/2018_home_728x90_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+</div>
+</div>
+</div>
+<div id="tocando" style="background-color: #000;">
+<div class="minimo">
+<div class="capa" style="background-image: url(&quot;&quot;);"></div>
+<div class="descricao">
+<h2>#ORockMeEnsinou</h2>
+<h3>89FM A Rádio Rock</h3>
+</div>
+<img alt="divisor" src="./anuncio-2_files/divisor.png">
+<div class="aviso">
+<p>
+Faça agora mesmo o download aqui
+e tenha o Rock sempre com você!
+</p>
+</div>
+</div>
+</div>
+</header>
+<section>
+<div id="conteudo">
+<div class="minimo">
+<div class="coluna_esquerda">
+<a target="_blank" href="https://www.radiorock.com.br/player/#letra" class="fancybox active" style="
+    display: inline-block;
+    width: 80%;
+        margin-bottom: 10px;
+    height: 45px;
+    line-height: 45px;
+    color: #000;
+    background-color: #ffd400;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+    float: left;
+">VER LETRA</a>
+<a target="_blank" href="https://www.radiorock.com.br/player/#bio" class="fancybox active" style="
+    display: inline-block;
+    width: 80%;
+        margin-bottom: 10px;
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    background-color: #00b7f3;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+    float: left;
+">BIOGRAFIA</a>
+<a target="_blank" href="https://www.radiorock.com.br/concursos" style="
+    display: inline-block;
+    width: 80%;
+        margin-bottom: 10px;
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    background-color: #e31214;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+    float: left;
+">PROMOÇÕES</a>
+</div>
+<div class="coluna_central">
+<div style="margin-bottom: 0 !important; padding: 0 !important; margin-top: 0 !important; " class="biografia">
+<h2>JA TOCOU</h2>
+<div class="tocou" style="text-align: left;font-size: 15px;font-weight: 400;">
+<p style="
+    font-size: 18px;
+    color: #fff;
+    text-align: left;
+    margin-bottom: 15px;
+">SYSTEM OF A DOWN - AERIALS <br>EDDIE VEDDER - YOU'VE GOT TO HIDE YOUR LOVE AWAY <br>KISS - I WAS MADE FOR LOVING YOU <br></p>
+
+</div>
+</div>
+</div>
+<div class="coluna_direita">
+<div class="propaganda">
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1086868/2018_MOBILE_HOME_336X280_1', [336, 280], 'div-gpt-ad-1542142281103-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<div id="div-gpt-ad-1542142281103-0" style="height:280px; margin-bottom:30px; width:336px;" data-google-query-id="CK7P1rTQqu4CFXoruQYdfRUHQA">
+
+<div id="google_ads_iframe_/1086868/2018_MOBILE_HOME_336X280_1_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/1086868/2018_MOBILE_HOME_336X280_1_0" title="3rd party ad content" name="google_ads_iframe_/1086868/2018_MOBILE_HOME_336X280_1_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true" src="./anuncio-2_files/saved_resource.html"></iframe></div></div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1086868/2018_home_970x90', [970, 90], 'div-gpt-ad-1542142382409-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<div id="div-gpt-ad-1542142382409-0" style="height:90px; width:970px; margin: 0 auto;" data-google-query-id="CLvnhbXQqu4CFS0EuQYdLiMMug">
+
+<div id="google_ads_iframe_/1086868/2018_home_970x90_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/1086868/2018_home_970x90_0" title="3rd party ad content" name="google_ads_iframe_/1086868/2018_home_970x90_0" width="970" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" style="border: 0px; vertical-align: bottom;" data-google-container-id="3" data-load-complete="true" src="./anuncio-2_files/saved_resource(1).html"></iframe></div></div>
+</div>
+</div>
+</section>
+<footer>
+<div id="rodape" style="background-color: #000;">
+<div class="minimo">
+<a class="logotipo" href="javascript:;">
+<img src="./anuncio-2_files/logo-bottom.png" alt="logo-bottom">
+</a>
+<div class="player">
+<div class="slogan">
+<h2><b>89 FM</b> A Rádio Rock</h2>
+</div>
+<a class="play" style="display: none;" onclick="if (!window.__cfRLUnblockHandlers) return false; playAndPause(&#39;play&#39;);" href="javascript:;">
+<i class="fa fa-play" aria-hidden="true"></i>
+</a>
+<a class="pause" onclick="if (!window.__cfRLUnblockHandlers) return false; playAndPause(&#39;pause&#39;);" href="javascript:;">
+<i class="fa fa-pause" aria-hidden="true"></i>
+</a>
+<div class="volume" style="position: relative; width:140px; display: inline-block;">
+<span class="tooltip" style="display: none;"></span>
+<div id="slider-volume" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all"><div class="ui-slider-range ui-widget-header ui-slider-range-min" style="width: 34.3434%;"></div><a class="ui-slider-handle ui-state-default ui-corner-all" href="https://www.radiorock.com.br/player/#" style="left: 34.3434%;"></a></div>
+<span class="volume"></span>
+</div>
+<script src="./anuncio-2_files/jquery-ui-1.8.21.custom.min.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+						$(function() {
+
+							//Store frequently elements in variables
+							var slider  = $('#slider-volume'),
+								tooltip = $('.tooltip');
+
+							//Hide the Tooltip at first
+							tooltip.hide();
+
+							//Call the Slider
+							slider.slider({
+								//Config
+								range: "min",
+								min: 1,
+								value: 35,
+
+								start: function(event,ui) {
+								    tooltip.fadeIn('fast');
+								},
+
+								//Slider Event
+								slide: function(event, ui) { //When the slider is sliding
+
+									var value  = slider.slider('value'),
+										volume = $('.volume');
+
+									tooltip.css('left', value).text(ui.value);  //Adjust the tooltip accordingly
+									value2 = value /100;
+									$("#jplayer_N").jPlayer("volume", value2);
+
+									console.log(value2)
+									
+									if(value <= 5) { 
+										volume.css('background-position', '0 0');
+									} 
+									else if (value <= 25) {
+										volume.css('background-position', '0 -25px');
+									} 
+									else if (value <= 75) {
+										volume.css('background-position', '0 -50px');
+									} 
+									else {
+										volume.css('background-position', '0 -75px');
+									};
+
+								},
+
+								stop: function(event,ui) {
+								    tooltip.fadeOut('fast');
+								},
+							});
+
+						});
+
+						</script>
+</div>
+
+<ul class="social">
+<li><a class="social" href="https://www.facebook.com/radiorockoficial/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a class="social" href="https://www.instagram.com/aradiorock/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a class="social" href="https://twitter.com/radiorock89" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a class="social" href="https://www.youtube.com/user/radiorock89/videos" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+
+        
+            $("#transparent").css("display", "block");
+            var id = $(this).attr('id');
+
+            $('input[name="username"]').val($('#' + id + ' .row_user').text());
+
+            $('input[name="email"]').val($('#' + id + ' .row_email').text());
+            $('#splash').hover(function () {
+
+                mouse_is_inside = true;
+
+            }, function () {
+
+                mouse_is_inside = false;
+
+            });
+
+        
+        $('.close').click(function (event) {
+            localStorage.setItem("abb2", "s")
+            $("#transparent").css("display", "none");
+        });
+        $('#transparent').click(function () {
+
+            if (!mouse_is_inside)
+                $('#transparent').hide();
+
+        });
+
+    });
+
+
+
+</script>
+<style>
+    #transparent{
+        position:fixed;
+        z-index: 9;
+        top:0px;
+        left:0px;
+        background-color:rgba(0,0,0,0.8);
+        width:100%;
+        height:100%;
+        display:none;
+
+    }
+    #splash{
+    background: rgba(76,46,110, 0.5);
+    height: 395px;
+    width: 700px;
+    margin: 15% auto;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 10px;
+
+    }
+    #splash h3 {
+        margin-bottom: 40px;
+    }
+    #splash li{
+
+    }
+
+    #splash li > a{
+        color: #ffffff;
+    }
+    .acessar{
+        border: 1px solid;
+        width: 90px;
+        padding: 10px;
+        margin: 0 auto;
+    }
+    #splash .sp,#splash .jr{
+        width:50%;
+        float: left;
+        position: relative;
+        height: 500px;
+    }
+    #splash .layer,#splash .layer{
+        /*background-color: rgba(70, 48, 96, 0.7);*/
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    #splash .layer ul,#splash .layer ul{
+        transform: translateY(100%);
+    }
+    #splash .sp{
+        background: url(/assets/site/img/masp.jpg) no-repeat;
+    }
+    #splash .jr{
+        background: url(/assets/site/img/cristo.jpg) no-repeat;
+    }
+
+
+
+
+    #close{
+        float:right;
+        vertical-align:top;
+        padding:10px;  
+        margin-top:-10px;
+    }
+    #close:hover{
+        cursor:pointer;
+    }
+    .close:hover{
+        cursor:pointer;
+    }
+
+    div#rodape > div.minimo > ul.social > li > a > i {
+
+    color: #000;
+
+}
+
+
+div#topo::before {
+    background-color: transparent;
+
+}
+
+body{
+	background-color: rgba(0, 0, 0, 0.37);
+}
+
+div#conteudo > div.minimo > div.coluna_central div.biografia > h2, .coluna_central {
+
+    color: #fff;
+
+}
+
+</style>
+</footer>
+
+<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div><iframe id="google_osd_static_frame_8595794338888" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./anuncio-2_files/saved_resource(2).html"></iframe></body></html>

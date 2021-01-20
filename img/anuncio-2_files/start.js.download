@@ -1,0 +1,146 @@
+
+$(document).ready(function () {
+
+		
+	$('form').each(function () {
+  		$(this).validate({
+  				ignore : ""
+		});
+		$(".phonefixo").mask("(99) 9999-9999");
+		$(".phone").mask("(99) 99999999?9");
+		$(".celphone").mask("(99) 99999999?9");
+		$(".cep").mask("99999-999");
+		$(".cpf").mask("999.999.999-99");
+		$(".cnpj").mask("99.999.999/9999-99");
+		$(".calendar").mask("99/99/9999");
+  	});
+	
+		
+
+	
+	$(".letra").mCustomScrollbar({'theme':'dark-3'});
+	$(".texto").mCustomScrollbar({'theme':'dark-3'});
+	
+	
+	
+		
+		$(".calendar").datepicker({
+			changeMonth: true,
+			changeYear: true,
+			dateFormat: "dd/mm/yy",
+
+
+			dayNames: ['Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado'],
+		    dayNamesMin: ['D','S','T','Q','Q','S','S','D'],
+		    dayNamesShort: ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb','Dom'],
+		    monthNames: ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
+		    monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],
+		    nextText: 'Próximo',
+		    prevText: 'Anterior'
+			
+		});
+		
+});
+$(".fancybox").fancybox();
+
+
+/*
+{"musicas":[{"tocando": 
+	[{"singer": "CULTURE CLUB",
+		"song": "TIME",
+		"bio": "Culture Club \u00e9 uma das bandas new romantic fundada em London, UK em 1982, ao lado de Duran Duran, Visage e Spandau Ballet. De sua forma\u00e7\u00e3o original, faziam parte Mikey Craig  (baixo), Roy Hay (guitarra e teclados) e Jon Moss (bateria e percuss\u00e3o) e o andr\u00f3gino vocalista Boy George.\nCulture Club foi uma das bandas mais conhecidas da d\u00e9cada de 80, conquistando f\u00e3s pelo mundo e acumulando hits em paradas musicais.\nAp\u00f3s lan\u00e7arem 4 \u00e1lbuns, o Culture Club resolveu se separar em 1986 <a target='_blank' href=\"https:\/\/www.last.fm\/music\/Culture+Club\">Read more on Last.fm<\/a>",
+		"cover": "https:\/\/lastfm-img2.akamaized.net\/i\/u\/300x300\/e2324c34a2974f4e96045bf8ed8bca7d.png",
+		"covermega": "https:\/\/lastfm-img2.akamaized.net\/i\/u\/e2324c34a2974f4e96045bf8ed8bca7d.png","background": "https:\/\/lastfm-img2.akamaized.net\/i\/u\/656255f26afa42e58fd8d2689926ac11.png","letra": "Don't put your head on my shoulder\nSink me in a river of tears\nThis could be the best place yet\nBut you must overcome your fears\n\nChorus 1:\nIn time it could have been so much more\nThe time is precious I know\nIn time it could have been so much more\nThe time has nothing to show\n\nChorus 2:\nBecause time won't give me time\nAnd time makes lovers feel\nLike they've got something real\nBut you and me we know\nThey've got nothing but time\nAnd time won't give me time\nWon't give me time\n\nDon't make me feel any colder\nTime is like a clock in my heart\nTouch we touch was the heat too much\nI felt I lost you from the start\n\n(chorus 1)\n\n(chorus 2)\n\n"}],"jatocou": [{"musicas": [{"singer": {"0":"JASON MRAZ\/COLBIE CAILLAT"},"song": {"0":"LUCKY"}},{"singer": {"0":"SANDY\/TIAGO IORC"},"song": {"0":"ME ESPERA"}},{"singer": {"0":"MADONNA"},"song": {"0":"RAIN"}},{"singer": {"0":"JOAN OSBOURNE"},"song": {"0":"I'LL BE AROUND"}}]}]}]}
+*/
+function getJson() {
+
+    $.ajax({	
+        cache: true,
+        dataType : "json",
+		url: '//players.gc2.com.br/cron/89fm/results.json?_=' + Date.now().toString().substring(0, 9),
+		success: function(data) {
+		console.log(data);
+		  var string  ='';
+			for($i = 0; $i < 3; $i++){
+				
+	            var singer = data.musicas.jatocou[$i].singer;
+	            var song = data.musicas.jatocou[$i].song;
+
+	            console.log(singer); 
+
+	            if(singer || song){
+	            	string = string + singer + " - " + song+ " <br />";
+	            }
+			}
+			if(string){
+				$("div.tocou > p").html(string);
+			}else{
+				$("div.tocou > p").html('Sem histórico ');
+			}
+
+			console.log(data);
+
+            var song = data.musicas.tocando.song;
+            var singer = data.musicas.tocando.singer;
+            var cover = data.musicas.tocando.cover;
+            var bio = data.musicas.tocando.bio;
+            var letra = data.musicas.tocando.letra;
+            var background = data.musicas.tocando.covermega;
+            //var urlF = "http://www.facebook.com/sharer.php?s=100&p[title]=Estou ouvindo"+song+" - "+singer+"&p[url]=http://player.radiorock.com.br&p[summary]=&p[images][0]="+ cover;
+
+            $("div#tocando > div.minimo > div.capa").css("background-image", "url("+cover+") ");
+            
+            $('div#tocando > div.minimo > div.descricao > h3').text(singer);
+            $('div#tocando > div.minimo > div.descricao > h2').text(song);
+            
+            //$(' div#conteudo > div.minimo > div.coluna_esquerda > div.letra .mCSB_inside>.mCSB_container').html(letra);
+            $(' div#letra > div.minimo > div.dois-tercos > p').html(letra);
+            
+            $(".letra").mCustomScrollbar({'theme':'dark-3'});
+            
+            $('  div#bio > div.minimo > div.dois-tercos > p').html(bio);
+            $(".texto").mCustomScrollbar({'theme':'dark-3'});
+            $('div#topo').css("background-image", "url("+background+") ");
+        }
+    });
+    
+    
+}
+
+
+getJson();
+window.setInterval(function() {
+    getJson();
+}, 25000);	
+
+$(function(){
+	$("#message").delay("2000").fadeOut();
+	$("#message").click( function(){ $("#message").stop().fadeOut(); });
+});
+
+
+function chamaSenha(){
+	$('form.login').slideToggle();
+	$('form.senha').slideToggle();
+}
+
+function chamaVotacao($x){
+	$data = $('form.enquete'+$x).serialize();
+	
+	$.ajax({
+		url: '/player/ajax/respondeenquete',
+		type: 'POST',
+		data: $data,
+		dataType: "json",
+		success: function($returndata)
+		{
+			$('form.enquete'+$x+' > div.enquete').addClass('bounceOut');
+			$('form.enquete'+$x+' > div.enquete').hide('bounceOut');
+			$('form.enquete'+$x+' > div.resposta').show();
+			$('form.enquete'+$x+' > div.resposta').addClass('bounceIn');
+		}
+	});
+
+}
+
+
