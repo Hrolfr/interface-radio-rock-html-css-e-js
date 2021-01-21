@@ -152,9 +152,16 @@ body{
     background-color: black;
     margin-top: -30px;
     max-height: 150px;
-    
 }
 
 .fimg{
     margin-left: 175px;
+}
+
+.range{
+  margin-left: 700px;
+  margin-top: -95px;
+  color: rgba(255, 248, 248, 0.966);
+  font-weight: bolder;
+  font-size: 22px;
 }
