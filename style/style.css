@@ -127,7 +127,6 @@ body{
     width: 25%;
     text-align: center;
     margin-right: 30%;
-    border: rgb(26, 22, 22) 2px dotted;
     margin-top: -240px;
     height: 200px;
     color: rgba(204, 199, 199, 0.966);
@@ -149,9 +148,9 @@ body{
 
 
 .footer {
-    /*background-color: black;*/
+    background: linear-gradient(rgba(82, 71, 71, 0.651), rgba(190, 185, 185, 0.651)100%);
     margin-top: -30px;
-    max-height: 150px;
+    height: 123px;
 }
 
 .fimg{
