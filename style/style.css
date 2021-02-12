@@ -69,7 +69,7 @@ body{
 
 
 .letra{
-    background-color:transparent;
+    background: linear-gradient(rgba(44, 38, 38, 0.651), rgba(61, 59, 59, 0.651), rgba(190, 185, 185, 0.651)100%);
     color: rgba(255, 248, 248, 0.966);
     height: 60px;
     width: 400px;
@@ -83,7 +83,7 @@ body{
 }
 
 .bio{
-    background-color:transparent;
+    background: linear-gradient(rgba(44, 38, 38, 0.651), rgba(61, 59, 59, 0.651), rgba(190, 185, 185, 0.651)100%);
     color: rgba(255, 248, 248, 0.966);
     height: 60px;
     width: 400px;
@@ -96,7 +96,7 @@ body{
 }
 
 .promo{
-    background-color:transparent;
+    background: linear-gradient(rgba(44, 38, 38, 0.651), rgba(61, 59, 59, 0.651), rgba(190, 185, 185, 0.651)100%);
     color: rgba(255, 248, 248, 0.966);
     height: 60px;
     width: 400px;
@@ -116,7 +116,7 @@ body{
     padding-top: 2%;
     margin-bottom: 5px; 
     margin-top: -30px;
-
+    
     font-family: 'Big Shoulders Stencil Text', cursive;
 }
 
