@@ -61,7 +61,7 @@ body{
 .o-rock{
     color: rgba(180, 180, 180, 0.966);
     font-size: 22px;
-    background: linear-gradient(rgba(41, 36, 36, 0.651), rgba(146, 141, 141, 0.651)100%);
+    background: linear-gradient(rgba(82, 71, 71, 0.651), rgba(190, 185, 185, 0.651)100%);
     max-height: 80px;
     margin-top: -100px;
 }
