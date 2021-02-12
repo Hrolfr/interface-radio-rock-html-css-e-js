@@ -59,10 +59,9 @@ body{
 /* Meio e 2/4 do documento*/
 
 .o-rock{
-    /*background: linear-gradient(rgb(235, 225, 135),rgb(95, 14, 14),rgb(160, 25, 25), rgba(241, 205, 86, 0.616),rgb(255, 200, 50)100%);*/
     color: rgba(180, 180, 180, 0.966);
     font-size: 22px;
-    background: url(https://1.bp.blogspot.com/-hPTt-K4vL1s/VhswvXNtugI/AAAAAAAAAXo/TluQCvDJyjA/s1600/tumblr_static_background.jpg);
+    background: linear-gradient(rgba(41, 36, 36, 0.651), rgba(146, 141, 141, 0.651)100%);
     max-height: 80px;
     margin-top: -100px;
 }
