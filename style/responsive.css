@@ -1,0 +1,6 @@
+@media and screen max-width(700px){
+   header .cab{
+        display: flex;
+        flex-direction: column;
+    }
+}
