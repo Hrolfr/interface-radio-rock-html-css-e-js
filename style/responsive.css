@@ -1,26 +1,9 @@
-@media screen and (max-width:1000px){
-   header .container{
-        display: flex;
-        flex-direction: column;
+    @media (max-width: 2560px){
+        .google-play,
+        .apple {
+            width: 7vw;
+            height: 7vh;
+
+            margin-bottom: 2rem;
+        }
     }
-}
-
-.cab{
-    max-width: 100%;
-}
-
-.cred{
-  max-width: 50%;
-}
-
-.botao{
-    max-width: 100vw;
-}
-
-@media screen and (min-width:1000px){
-    .text{
-        margin-left: 100;
-        max-height: 10%;
-        max-width: 100%;
-    }
-}
