@@ -11,11 +11,16 @@
         .agora{
            margin-top: 10%;
            font-size: 2rem;
+
+           margin-top: 7rem;
         }
 
         .cred{
         height: 7rem;
         width: 50%;
+
+        margin-top: -7em;
+        margin-bottom: 4em;
 
         }
 
