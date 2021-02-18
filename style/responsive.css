@@ -41,5 +41,14 @@
            font-size: 3rem;
        }
 
+       .letra,
+       .bio,
+       .promo{
+           height: 8vh;
+           width: 25vw;
+       
+           font-size: 2rem;
+        }
+
     }
 
