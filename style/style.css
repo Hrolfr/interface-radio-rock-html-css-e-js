@@ -10,7 +10,7 @@ body{
 }
 
 .logo{
-    height: 70px;
+    height: 7.0vh;
     width:20%;
     align-content: center;
     margin-left: 40%;
@@ -22,14 +22,14 @@ body{
 }
 
 .google-play {
-    width: 110px;
+    width: 0.1.0rem;
     height: 45px;
     justify-content: left;
     margin-bottom: 12px;
     margin-left: 250px;
 }
 .apple{
-    width: 110px;
+    width: 0.1.0rem;
     height: 45px;
     justify-content: left;
     margin-bottom: 12px;
