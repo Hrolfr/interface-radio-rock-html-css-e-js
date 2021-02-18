@@ -6,4 +6,30 @@
 
             margin-bottom: 2rem;
         }
+   
+   
+        .agora{
+           margin-top: 10%;
+           font-size: 2rem;
+        }
+
+        .cred{
+        height: 7rem;
+        width: 50%;
+
+        }
+
+        .u2{
+        height: max-content;
+        }
+    
+        .o-rock{
+            height: 20vh;
+        }
+
+       .juntos{
+           font-size: 2rem;
+       }
+
     }
+
