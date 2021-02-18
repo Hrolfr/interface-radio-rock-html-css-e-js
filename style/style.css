@@ -10,34 +10,37 @@ body{
 }
 
 .logo{
-    height: 7.0vh;
+    height: 12vh;
     width:20%;
     align-content: center;
     margin-left: 40%;
+
+    margin-top: -0.1rem;
+    margin-bottom: auto;
 }   
 
 .cab{
     background-color: black;
-    max-height: 70px;
+    max-height: 70vh;
 }
 
 .google-play {
     width: 0.1.0rem;
     height: 45px;
     justify-content: left;
-    margin-bottom: 12px;
+    margin-bottom: 1.2rem;
     margin-left: 250px;
 
-    margin-top: 0.7rem;
+    margin-top: 1.2rem;
 }
 .apple{
     width: 0.1.0rem;
     height: 45px;
     justify-content: left;
-    margin-bottom: 12px;
+    margin-bottom: 1.2rem;
     margin-left: 3px;
 
-    margin-top: 0.7rem;
+    margin-top: 1.2rem;
 }
 
 .agora{
