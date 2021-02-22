@@ -95,5 +95,11 @@
    
          .google-play{
              margin-right: -17rem;
-         }
-   }
+            
+        }
+      
+        .apple{
+            margin-left: -1rem;
+        }
+
+    }
