@@ -118,6 +118,12 @@
    
     }
    
-    @media (max-width: 1920px){
-
+    @media (max-width: 2105px){
+         .apple{
+            margin-left: -20rem;
+        }
+    
+        .google-play{
+            margin-right: 1rem;
+        }
     }
