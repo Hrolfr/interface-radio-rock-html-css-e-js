@@ -86,3 +86,14 @@
 
     }
 
+    @media (max-width: 1880px){
+         .cab{
+             height: 13vh;
+             
+         }
+    
+   
+         .google-play{
+             margin-right: -17rem;
+         }
+   }
