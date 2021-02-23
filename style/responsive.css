@@ -155,11 +155,16 @@
             height: 14vh;
             font-size: 1em;
         }
-         .text{
+       
+        .text{
             font-size: 1.8em;
             height: 28vh;
        }
      
+        .footer{
+            height: 14vh;
+        }
+
     }
 
     @media (max-width: 1960px){
