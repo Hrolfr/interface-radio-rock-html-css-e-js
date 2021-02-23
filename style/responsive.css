@@ -130,10 +130,21 @@
 
 
     @media (max-width: 1970px){
+       
+        .agora,
         .juntos{
-           margin-left: 2rem;
+            font-size: 2rem;
         }
-      
+    
+        text{
+            height: 12vh;
+            font-size: 1rem;
+        }
+
+        .o-rock{
+            height: 13vh;
+        }
+
       }
 
     @media (max-width: 1960px){

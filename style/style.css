@@ -34,7 +34,7 @@ body{
     margin-top: 1.2rem;
 }
 .apple{
-    width: 0.1.0rem;
+    width: 1rem;
     height: 45px;
     justify-content: left;
     margin-bottom: 1.2rem;
@@ -129,8 +129,6 @@ body{
     width: 25%;
     text-align: center;
     margin-right: 30%;
-    margin-top: -240px;
-    height: 200px;
     color: rgba(255, 248, 248, 0.966);
 } 
 
