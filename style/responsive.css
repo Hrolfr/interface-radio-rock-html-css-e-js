@@ -154,6 +154,7 @@
         .o-rock{
             height: 14vh;
             font-size: 1em;
+           
         }
        
         .text{
@@ -168,8 +169,24 @@
     }
 
     @media (max-width: 1960px){
-      .juntos{
-         margin-left: 2rem;
-      }
-    
+        .agora{
+            margin-top: 2em;
+            font-size: 2rem;
+        }
+     
+        .juntos{
+             margin-left: 2rem;
+        
+        }
+      
+        .o-rock{ 
+             margin-bottom: 3rem;
+        }
+
+       .text{
+         font-size: 1.8em;
+         height: 39vh;
+         margin-top: 3em;
+       }
+   
     }
