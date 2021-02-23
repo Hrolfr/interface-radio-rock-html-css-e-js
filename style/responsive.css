@@ -136,16 +136,24 @@
             font-size: 2rem;
         }
     
-        text{
+        .u2{
+            width: 18vw;
+            height: 30vh;
+        }
+   
             height: 12vh;
             font-size: 1rem;
         }
 
         .o-rock{
             height: 13vh;
+            font-size: 1em;
         }
-
-      }
+         .text{
+            font-size: 2em;
+       }
+     
+    }
 
     @media (max-width: 1960px){
       .juntos{
