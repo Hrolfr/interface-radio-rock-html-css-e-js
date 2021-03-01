@@ -184,10 +184,10 @@
    
     }
 
-    @media (max-width: 1872px){
+    @media (max-width: 1950px){
 
-        .apple{
-
+        .text{
+             height: 27vh;
         }
 
     }
