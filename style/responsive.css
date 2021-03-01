@@ -146,10 +146,6 @@
             width: 18vw;
             height: 30vh;
         }
-   
-            height: 12vh;
-            font-size: 1rem;
-        }
 
         .o-rock{
             height: 14vh;
@@ -160,7 +156,7 @@
         .text{
             font-size: 1.8em;
             height: 30vh;
-            margin-top: -22rem;
+            margin-top: -24rem;
        }
      
         .footer{
@@ -186,4 +182,12 @@
          height: 39vh;
        }
    
+    }
+
+    @media (max-width: 1872px){
+
+        .apple{
+
+        }
+
     }
