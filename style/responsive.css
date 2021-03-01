@@ -124,7 +124,7 @@
         }
     
         .google-play{
-            margin-right: 1rem;
+            margin-right: 1em;
         }
     }
 
@@ -202,4 +202,8 @@
         .apple{
             margin-left: -18rem;
         }
+    }
+
+    @media (max-width: 1538px){
+   
     }
