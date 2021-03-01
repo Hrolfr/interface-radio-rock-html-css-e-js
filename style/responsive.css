@@ -159,7 +159,8 @@
        
         .text{
             font-size: 1.8em;
-            height: 28vh;
+            height: 30vh;
+            margin-top: -22rem;
        }
      
         .footer{
@@ -169,6 +170,7 @@
     }
 
     @media (max-width: 1960px){
+       
         .agora{
             margin-top: 2em;
             font-size: 2rem;
@@ -176,17 +178,12 @@
      
         .juntos{
              margin-left: 2rem;
-        
+             
         }
       
-        .o-rock{ 
-             margin-bottom: 3rem;
-        }
-
        .text{
          font-size: 1.8em;
          height: 39vh;
-         margin-top: 3em;
        }
    
     }
