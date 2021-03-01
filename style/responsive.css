@@ -196,3 +196,10 @@
         }
 
     }
+
+    @media (max-width: 1718px){
+
+        .apple{
+            margin-left: -18rem;
+        }
+    }
