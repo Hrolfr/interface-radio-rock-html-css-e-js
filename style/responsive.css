@@ -187,7 +187,12 @@
     @media (max-width: 1950px){
 
         .text{
-             height: 27vh;
+            height: 27vh;
+            margin-top: -23rem;
+        }
+
+        .footer{
+            height: 16vh;
         }
 
     }
