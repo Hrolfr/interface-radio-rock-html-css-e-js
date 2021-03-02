@@ -216,3 +216,10 @@
        }
 
     }
+
+    @media(max-width: 1474px){
+
+         .sempre{
+            font-size: 2.3rem;
+        }
+    }
