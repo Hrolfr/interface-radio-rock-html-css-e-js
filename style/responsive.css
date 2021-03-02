@@ -206,4 +206,13 @@
 
     @media (max-width: 1538px){
    
+       .google-play{
+        margin-right: -14rem;
+        margin-left: 25rem;
+       }
+
+       .apple{
+        margin-left: -1rem;
+       }
+
     }
