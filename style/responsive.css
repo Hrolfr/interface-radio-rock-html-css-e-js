@@ -217,7 +217,7 @@
 
     }
 
-    @media(max-width: 1474px){
+    @media(max-width: 1474px){ 
 
          .sempre{
             font-size: 2.3rem;
@@ -227,3 +227,18 @@
             margin-left: 22rem;
         }
     }
+
+     @media(max-width: 1370px){
+
+        .google-play{
+            margin-right: -14rem;
+            margin-left: 25rem;
+           }
+    
+           .apple{
+            margin-left: -0.2rem;
+            margin-right:-11rem;
+           }
+    
+        }
+     }
