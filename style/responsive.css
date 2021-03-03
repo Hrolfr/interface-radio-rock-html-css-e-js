@@ -60,7 +60,7 @@
         }
 
         .footer{
-            height: 12vh;
+            height: 13vh;
         }
 
         .fimg{
@@ -228,7 +228,12 @@
         }
     }
 
-     @media(max-width: 1370px){
+    @media(max-width: 13px){
+
+    }
+    
+    
+    @media(max-width: 1370px){
 
         .google-play{
             margin-right: -14rem;
@@ -271,3 +276,4 @@
 
         }
      
+    @media(max-width: 1370px)
