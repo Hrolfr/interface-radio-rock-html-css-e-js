@@ -130,6 +130,19 @@
 
     }
 
+    @media (max-width: 1966px){
+        
+       .juntos{
+           font-size: 2.9rem;
+       }
+
+        .text{
+            
+            height: 19vh;
+            margin-top: -16em;
+          }
+    }
+
     @media (max-width: 1960px){
        
         .agora{
