@@ -144,7 +144,8 @@
       
        .text{
          font-size: 1.8em;
-         height: 39vh;
+         height: 19vh;
+         margin-top: -16em;
        }
    
     }
