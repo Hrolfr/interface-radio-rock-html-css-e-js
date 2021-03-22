@@ -94,6 +94,16 @@
 
     }
 
+    @media (max-width: 2105px){
+        .apple{
+           margin-left: -20rem;
+       }
+   
+       .google-play{
+           margin-right: 1em;
+       }
+   }
+
     @media (max-width: 1970px){
        
        
@@ -198,15 +208,13 @@
     @media (max-width: 1880px){
          .cab{
              height: 13vh;
-             
          }
     
-   
-         .google-play{
-             margin-right: -17rem;
+        /* .google-play{
+             margin-right: -16rem;
             
         }
-      
+      */
         .apple{
             margin-left: -1rem;
         }
@@ -227,21 +235,19 @@
    
     }
    
-    @media (max-width: 2105px){
-         .apple{
-            margin-left: -20rem;
-        }
-    
-        .google-play{
-            margin-right: 1em;
-        }
-    }
-
     @media (max-width: 1718px){
 
         .apple{
             margin-left: -18rem;
         }
+    }
+
+    @media (max-width: 1703px){
+
+        .apple{
+            margin-right: -7em;
+        }
+    
     }
 
     @media (max-width: 1538px){
