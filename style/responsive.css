@@ -86,6 +86,14 @@
 
     }
 
+    @media(max-width: 2145px){
+
+    .o-rock{
+        height: 13vh;
+    }
+
+    }
+
     @media (max-width: 1880px){
          .cab{
              height: 13vh;
